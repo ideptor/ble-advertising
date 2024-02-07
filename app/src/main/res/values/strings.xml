@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ble-advertising</string>
+    <string name="turnoff_ap">Turn off AP</string>
+    <string name="turn_on_ap">Turn on SoftAP</string>
+</resources>
